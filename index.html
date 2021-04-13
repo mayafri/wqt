@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="screen.css">
+		<script type="text/javascript" src="parse.js" defer></script>
+		<script type="text/javascript" src="insert.js" defer></script>
+		<script type="text/javascript" src="filter.js" defer></script>
+		<script type="text/javascript" src="main.js" defer></script>
+	</head>
+	<body>
+		<header>
+			<h1>
+				Page
+				<a href="https://github.com/hyakosm/wqt">wqt</a>
+				<!-- page -->
+				<!-- for -->
+				de
+				<a href="/">example.tld</a>
+			</h1>
+		</header>
+
+		<main>
+			<noscript>
+				<p>
+					<!-- Javascript is disabled but you can -->
+					Javascript est désactivé mais vous pouvez
+					<a href="links.txt">
+						<!-- access to links here -->
+						accéder aux liens ici
+					</a>.
+				</p>
+			</noscript>
+
+			<p class="displayall banner hide">
+				<!-- Filtered on -->
+				Filtré sur
+				<strong id="tag-label"></strong>
+				-
+				<a href="#" onclick="showAllLinks()">
+					<!-- display all -->
+					afficher tout
+				</a>
+			</p>
+
+			<div class="linkblock">
+				<p class="date"></p>
+				<p class="title"><a href=""></a></p>
+				<p class="url"></p>
+				<p class="tags">
+					<a href="#"></a>
+				</p>
+			</div>
+		</main>
+	</body>
+</html>
