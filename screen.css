@@ -1,0 +1,66 @@
+body {
+    font-family: helvetica;
+    max-width: 50rem;
+    margin: auto;
+    padding: 0 1rem;
+}
+
+header, .linkblock {
+    margin: 1rem 0;
+}
+
+header {
+    border-bottom: 1pt solid black;
+}
+
+h1 {
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+a {
+    color: #3a37be;
+}
+
+.linkblock p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title, .url, .tags {
+    margin-left: 6rem;
+}
+
+.date {
+    float: left;
+    width: 6rem;
+}
+
+.title a {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.url {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.url:active {
+    overflow: visible;
+    white-space: inherit;
+}
+
+.url, .tags, footer p {
+    font-size: 0.9rem;
+}
+
+.banner {
+    background: #f0f0ff;
+    padding: 0.5rem;
+}
+
+.hide {
+    display: none;
+}
