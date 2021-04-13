@@ -11,6 +11,8 @@ Inspired by these systems:
 [JdH / Lobster](https://gitlab.com/journalduhacker/journalduhacker),
 [Shaarli](https://shaarli.readthedocs.io/en/master/)...
 
+Online [here](http://hyakosm.net/wqt/).
+
 ## How it works
 
 First you clone the repo. After, create a `links.txt` file and put
@@ -65,6 +67,8 @@ Inspiré des systèmes suivants :
 [HN](https://news.ycombinator.com/),
 [JdH / Lobster](https://gitlab.com/journalduhacker/journalduhacker),
 [Shaarli](https://shaarli.readthedocs.io/en/master/)...
+
+En ligne [ici](http://hyakosm.net/wqt/).
 
 ## Comment ça marche
 
