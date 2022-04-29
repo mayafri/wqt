@@ -1,0 +1,295 @@
+2019-09-18
+Les secrets des Pass de transports en commun
+http://www.acbm.com/inedits/pass-transports-commun-secrets.html
+transport hack
+
+2019-09-18
+Hacker les nouveaux passes de transport "Navigo Easy" ?
+https://medium.com/@lp1/hacker-les-nouveaux-passes-de-transport-navigo-easy-29815ef1fd8a
+transport hack
+
+2019-10-14
+A reimplementation of NetBSD based on a microkernel - Andy Tanenbaum
+https://www.youtube.com/watch?v=jMkR9VF2GNY
+os programmation unix
+
+2019-10-10
+Étude : 50 % des projets de développement d'applications se soldent par un échec
+https://www.developpez.com/actu/228268/Etude-50-pourcent-des-projets-de-developpement-d-applications-se-soldent-par-un-echec-cela-est-il-du-a-la-lenteur-des-codeurs-et-la-dette-technique/
+entreprise
+
+2020-05-10
+History of the Berlin Wall through maps
+https://360.here.com/2014/11/06/fall-wall-missing-pieces/
+histoire
+
+2020-05-16
+The little book about OS development
+https://littleosbook.github.io/
+os programmation
+
+2020-05-18
+Hypnerotomachia Poliphili
+https://fr.wikipedia.org/wiki/Hypnerotomachia_Poliphili
+histoire livre
+
+2020-05-19
+Marinelli - Pionnier français du générique télé
+https://strabic.fr/Gerard-Marinelli-FR3-Thalassa-television
+television graphisme
+
+2020-05-20
+A simple (cron) script to update DynHost on OVH hosting
+https://github.com/yjajkiew/dynhost-ovh
+ovh dns
+
+2020-05-23
+Konbini - La folle histoire du Minitel (et comment les Français ont ken les Allemands)
+https://www.youtube.com/watch?v=ILLMAKJDe9c
+minitel france video
+
+2020-06-27
+A half-hour to learn Rust
+https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+programmation rust
+
+2020-10-28
+L’irrespect est-il intolérance ?
+https://www.ledevoir.com/opinion/lettres/588655/l-irrespect-est-il-intolerance
+politique
+
+2020-11-01
+How to stop Google's “people also search for”
+https://webapps.stackexchange.com/questions/115038/how-to-stop-googles-people-also-search-for
+google
+
+2020-11-12
+Working from home at 25MHz: You could do worse than a Quadra 700 (even in 2020)
+https://arstechnica.com/information-technology/2020/12/it-still-runs-on-your-imagination-passing-2020-time-with-a-macintosh-quadra-700/
+macintosh motorola68k
+
+2021-02-19
+Tablette de plainte à Ea-nasir
+https://fr.wikipedia.org/wiki/Tablette_de_plainte_%C3%A0_Ea-nasir
+histoire
+
+2021-02-20
+UQÀC - Classiques des sciences sociales
+http://classiques.uqac.ca/
+sociologie quebec
+
+2021-02-21
+"But How Do I Actually Start?" Making Games on Your Own as an Engineer
+https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/
+conception programmation jeu
+
+2021-02-25
+No-code is a lie
+https://webflow.com/blog/no-code-is-a-lie
+programmation
+
+2021-03-01
+IBM Carbon Design System
+https://www.carbondesignsystem.com/
+ux-ui
+
+2021-03-02
+VE2CWQ - Visite au site de transmission du Mont-Royal
+http://www.ve2cwq.ca/visite-au-site-de-transmission-du-mont-royal/
+radio montreal
+
+2021-03-04
+Stanford CS193p - Developing Apps for iOS
+https://cs193p.sites.stanford.edu/
+programmation iphone ios
+
+2021-03-04
+Operating Systems: Three Easy Pieces
+https://pages.cs.wisc.edu/~remzi/OSTEP/
+os programmation
+
+2021-03-05
+PRET - Printer Exploitation Toolkit
+https://github.com/RUB-NDS/PRET
+hack imprimante
+
+2021-03-09
+Susan Kare, Iconographer
+https://vimeo.com/97583369
+macintosh ux-ui video graphisme
+
+2021-03-10
+So you want to learn morse code
+https://www.qsl.net/n1irz/finley.morse.html
+morse radio
+
+2021-03-10
+Comment progresser en tant que développeur backend
+https://practicalprogramming.fr/progresser-en-tant-que-developpeur-backend
+methode
+
+2021-03-12
+Recettes de grand-mère
+http://www.bouletcorp.com/2017/11/02/recettes-de-grand-mere/
+bd humour
+
+2021-03-15
+How I became a professional self-taught developer in Germany while working a full time job
+https://dev.to/carstenbehrens/how-i-became-a-professional-self-taught-developer-in-germany-while-working-a-full-time-job-djd
+emploi
+
+2021-03-30
+A First Guide to PostScript
+http://www.tailrecursive.org/postscript/postscript.html
+programmation postscript
+
+2021-04-02
+How to Design Programs, Second Edition
+https://htdp.org/2020-8-1/Book/index.html
+livre programmation
+
+2021-04-02
+Coder proprement - Robert C. Martin
+https://www.chapitre.com/BOOK/martin-robert-c/coder-proprement,79516497.aspx
+livre programmation
+
+2021-04-08
+Le retour d'ascenseur
+https://www.ledevoir.com/opinion/chroniques/598391/le-retour-d-ascenseur
+covid vih
+
+2021-04-08
+Quand l'informatique était analogique
+https://www.reddit.com/r/france/comments/mmsa9u/quand_linformatique_%C3%A9tait_analogique/
+analogique
+
+2021-04-09
+VS Code Remote Development
+https://code.visualstudio.com/docs/remote/remote-overview
+programmation vscode
+
+2021-04-10
+Timeline of Mathematics
+https://mathigon.org/timeline
+math histoire
+
+2021-04-11
+Fed up with the Mac, I spent six months with a Linux laptop. The grass is not greener on the other side
+https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html
+linux macintosh
+
+2021-04-12
+The History of Unix, Rob Pike
+https://www.youtube.com/watch?v=_2NI6t2r_Hs
+os unix video
+
+2021-04-13
+The Design of Vintage Computer Product Print Works
+https://www.fornaxvoid.com/vcsb/index.html
+graphisme
+
+2021-04-15
+How To Get Web Design Clients Fast
+https://www.smashingmagazine.com/2021/03/web-design-clients-fast-part1/
+web entrepreneuriat
+
+2021-04-16
+The Signs that Make a City
+https://tribunemag.co.uk/2021/04/the-signs-that-make-a-city
+graphisme urbanisme histoire
+
+2021-04-17
+Mapped: The world's coal power plants
+https://www.carbonbrief.org/mapped-worlds-coal-power-plants
+électricité industrie
+
+2021-04-17
+Entrevue avec V.Hugeux : Tyrans d'Afrique, les mystères du despotisme postcolonial
+https://ici.radio-canada.ca/ohdio/premiere/emissions/samedi-et-rien-d-autre/segments/entrevue/351734/tyrans-afrique-despotes-postcolonial-vincent-hugeux
+politique histoire
+
+2021-04-19
+Du temps du mur de Berlin, la «vallée des ignorants» était privée de télé
+http://www.slate.fr/story/183966/avant-chute-mur-berlin-rda-television-propagande-vallee-ignorants
+histoire télévision
+
+2021-05-05
+The Unix Magic Poster
+https://jpmens.net/2021/04/09/the-unix-magic-poster/
+graphisme unix
+
+2021-05-10
+Nushell - A new type of shell
+https://www.nushell.sh/book/introduction.html
+shell app
+
+2021-05-12
+micro - a modern and intuitive terminal-based text editor
+https://micro-editor.github.io/
+editeur app
+
+2021-05-14
+One Person's War on Junk Mail
+http://www.langston.com/Fun_People/1996/1996AEK.html
+spam loi
+
+2021-05-15
+Modern Javascript: Everything you missed over the last 10 years
+https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
+programmation js
+
+2021-05-16
+Why 24-bit/192kHz music downloads make no sense
+https://xiphmont.dreamwidth.org/57937.html
+audio
+
+2021-07-05
+A vintage metro ride in Paris
+https://untappedcities.com/2010/09/27/a-vintage-metro-ride-in-paris/
+métro transport paris
+
+2021-07-05
+PlayStation Architecture - A Practical Analysis
+https://www.copetti.org/writings/consoles/playstation/
+architecture système playstation
+
+2021-07-05
+Dans les palais souterrains du métro de Moscou
+https://ici.radio-canada.ca/nouvelle/1641746/metro-moscou-oeuvres-art-communisme-stations-histoire-visite-sovietisme-lenine
+métro transport moscou russie
+
+2021-07-05
+Staline n'était pas paranoïaque, mais pervers narcissique
+https://www.lexpress.fr/actualite/monde/joseph-staline-n-etait-pas-paranoiaque-mais-pervers-narcissique_1226743.html
+histoire urss staline russie
+
+2021-08-05
+Personal Computing On An Amiga In 2021
+https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021
+amiga
+
+2021-08-06
+electricityMap
+https://www.electricitymap.org/map
+electricite
+
+2021-08-07
+How to stay sane in today's world of tech
+https://unixsheikh.com/articles/how-to-stay-sane-in-todays-world-of-tech.html
+industrie
+
+2021-08-07
+Le manifeste post-méritocratie
+https://postmeritocracy.org/fr/
+industrie
+
+2022-03-06
+Le “Chips Act” peut-il sauver l’industrie européenne ?
+https://laurentbloch.net/MySpip3/Le-Chips-Act-peut-il-sauver-l-industrie-europeenne
+industrie materiel puces
+
+
+2022-04-23
+Inventing PostScript, the tech that took the pain out of printing
+https://spectrum.ieee.org/adobe-postscript
+materiel imprimante graphisme programmation
