@@ -11,7 +11,7 @@ Inspired by these systems:
 [JdH / Lobster](https://gitlab.com/journalduhacker/journalduhacker),
 [Shaarli](https://shaarli.readthedocs.io/en/master/)...
 
-Online [here](http://hyakosm.net/wqt/).
+Online [here](https://wqt-maya.onrender.com/).
 
 ## How it works
 
@@ -68,7 +68,7 @@ Inspiré des systèmes suivants :
 [JdH / Lobster](https://gitlab.com/journalduhacker/journalduhacker),
 [Shaarli](https://shaarli.readthedocs.io/en/master/)...
 
-En ligne [ici](http://hyakosm.net/wqt/).
+En ligne [ici](https://wqt-maya.onrender.com/).
 
 ## Comment ça marche
 
