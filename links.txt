@@ -53,11 +53,6 @@ A half-hour to learn Rust
 https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 programmation rust
 
-2020-10-28
-L’irrespect est-il intolérance ?
-https://www.ledevoir.com/opinion/lettres/588655/l-irrespect-est-il-intolerance
-politique
-
 2020-11-01
 How to stop Google's “people also search for”
 https://webapps.stackexchange.com/questions/115038/how-to-stop-googles-people-also-search-for
